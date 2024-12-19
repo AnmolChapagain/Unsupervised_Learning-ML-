@@ -54,14 +54,8 @@ Example commands and instructions will be provided in `notebooks/` or the script
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Jupyter](https://jupyter.org/) (for notebooks)
-- [umap-learn](https://umap-learn.readthedocs.io/en/latest/) (optional, if used)
+- [umap-learn](https://umap-learn.readthedocs.io/en/latest/) ( if used)
 
 Check `requirements.txt` for a full list of dependencies and exact versions.
 
-## Installation
-
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/your-username/unsupervised-ml-project.git
-   cd unsupervised-ml-project
 
